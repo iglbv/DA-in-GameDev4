@@ -25,24 +25,28 @@
 Создан пустой объект, к которому подключен скрипт perceptron. Затем мы для каждого вычисления вводим данные input и данные output. Затем в консоли наблюдаем, как наш перцептрон начинает обучаться и начинает работать без ошибок (или нет). Скриншоты прилагаются:
 
 OR: 
+
 ![orinspector](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/08303da6-4f77-445e-81c4-55ae9a69c451)
 ![orconsole](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/953c47f7-a2d3-402b-9739-38ef3f2a15d4)
 
 Перцептрон обучается в среднем за 3-4 поколения
 
 AND:
+
 ![andinspector](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/afb512f2-755b-4dd1-ac93-47812e5a0309)
 ![andconsole](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/a81ba1de-128a-486d-85ac-6cd3facc69a7)
 
 Перцептрон обучается в среднем за 4-5 поколений
 
 NAND:
+
 ![nandinspector](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/8f461da5-9f23-43ff-bfd0-4de1acac2a5a)
 ![nandconsole](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/0fe96e2e-fa44-42f3-9e1c-d12461067cdc)
 
 Перцептрон обучается в среднем за 4-5 поколений
 
 XOR:
+
 ![xorinspector](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/cb739fd5-b0fa-4fc1-ac43-3f74eb0a01ad)
 ![xorconsole](https://github.com/iglbv/DA-in-GameDev4/assets/130669110/a3b33adb-9492-4164-b3a8-ab3f4864a976)
 
